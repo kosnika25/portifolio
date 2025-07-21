@@ -10,7 +10,7 @@ const Projects = () => {
     {
       id: 1,
       title: "Comercio",
-      description: "Plataforma de comercio para opções de compras",
+      description: "Plataforma de comercio para opções de compras ",
       tags: ["React", "JavaScript", "HTML" , "CSS"],
       image: "projeto1.jpg", // Apenas o nome do arquivo
       github: "https://github.com/kosnika25/projetoboer",
@@ -21,7 +21,7 @@ const Projects = () => {
       description: "Uma plataforma para cadastrar produto e fornecedor",
       tags: ["JavaScript", "C#", "HTML", "CSS"],
       image: "projeto2.jpeg",
-      github: "https://https://github.com/kosnika25/ProdutoFornecedor.com",
+      github: "https://github.com/kosnika25/ProdutoFornecedor",
     },
     // ... outros projetos
   
@@ -30,18 +30,53 @@ const Projects = () => {
       title: "Cursos",
       description: "Site para uma grade curricular de cursos",
       tags: ["HTML", "CSS"],
-      image: "projeto3.jpg",
-      github: "https://https://github.com/kosnika25/testeProjetoLigia1.com",
+      image: "cursosTI.png",
+      github: "https://github.com/kosnika25/testeProjetoLigia1",
     },
-        {
+      
+      {
       id: 4,
-      title: "Vejo o github com outros projetos incluindo logicas e exercicios",
-      description: "Site para uma grade curricular de cursos",
+      title: "Caféteria",
+      description: "Site para uma caféteria",
       tags: ["HTML", "CSS"],
-      image: "projeto4.avif",
-      github: "https://github.com/kosnika25",
+      image: "imgCafeteria.png",
+      github: "https://github.com/kosnika25/cafeteria",
     },
-    
+
+    {
+      id: 5,
+      title: "Portifólio",
+      description: "Site com a grade Curricular e Projetos",
+      tags: ["HTML", "CSS"],
+      image: "imgPortifolio.png",
+      github: "https://github.com/kosnika25/portifolio",
+    },
+
+    {
+      id: 6,
+      title: "Atividade Crud Site",
+      description: "Atividade feito em sala de aula com crud para adicionar dentre outros afazeres exemplos cidade,estado e Cliente",
+      tags: ["JAVA SCRIPT","C#","HTML", "CSS"],
+      image: "projeto4.avif",
+      github: "https://github.com/kosnika25/atv1",
+    },
+
+      {
+      id: 7,
+      title: "Vejo o github com outros projetos incluindo logicas e exercicios",
+      description: "Exercicios com praticas na linguagem C#",
+      tags: ["C#"],
+      image: "projeto4.avif",
+      github: "https://github.com/kosnika25/linguagemC-",
+    },
+           {
+      id: 8,
+      title: "Vejo o github com outros projetos incluindo logicas e exercicios",
+      description: "Exercicios com praticas na linguagem C++",
+      tags: ["C++"],
+      image: "projeto4.avif",
+      github: "https://github.com/kosnika25/exercicio-linguagem-C-",
+    },
     // ... outros projetos
   ];
 
