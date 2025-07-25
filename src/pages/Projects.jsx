@@ -20,7 +20,7 @@ const Projects = () => {
       title: "Produto Fornecedor",
       description: "Uma plataforma para cadastrar produto e fornecedor",
       tags: ["JavaScript", "C#", "HTML", "CSS"],
-      image: "projeto2.jpeg",
+      image: "produtoFornecedor.png",
       github: "https://github.com/kosnika25/ProdutoFornecedor",
     },
     // ... outros projetos
