@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 import '../App.css';
 
 const Projects = () => {

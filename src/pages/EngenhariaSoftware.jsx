@@ -1,9 +1,11 @@
 import React, {useEffect} from 'react';
 import '../App.css';
-import { Link } from 'react-router-dom';
 
 
 const EngenhariaSoftware = () => {
+       useEffect(() => {
+                window.scrollTo(0, 0);
+            }, []);
     return (
         <div className="container-pi">
             <br />

@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { FaChevronDown, FaChevronUp, FaLaptopCode, FaChartLine, FaDatabase, FaCodeBranch, FaBook, FaUsers, FaBrain, FaProjectDiagram, FaCode, FaSitemap } from 'react-icons/fa';
+import { FaChevronDown, FaChevronUp, FaLaptopCode,FaDatabase, FaCodeBranch, FaBook, FaUsers, FaBrain, FaProjectDiagram, FaCode, FaSitemap } from 'react-icons/fa';
 import '../App.css';
 import { SiReact } from 'react-icons/si';
-import LinguaInglesa from './LinguaInglesa';
 
 const MateriaDetails = () => {
     useEffect(() => {
