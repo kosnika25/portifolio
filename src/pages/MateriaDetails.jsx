@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { FaChevronDown, FaChevronUp, FaLaptopCode,FaDatabase, FaCodeBranch, FaBook, FaUsers, FaBrain, FaProjectDiagram, FaCode, FaSitemap } from 'react-icons/fa';
 import '../App.css';
-import { SiReact } from 'react-icons/si';
+
 
 const MateriaDetails = () => {
     useEffect(() => {
