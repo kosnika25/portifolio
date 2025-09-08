@@ -41,9 +41,11 @@ function App() {
             <Route path="/gestaoagil" element={<GestaoAgil />} />
             <Route path="/bancodados" element={<BancoDados />} />
             <Route path="/interacaohumano" element={<InteracaoHumano />} />
-                        <Route path="/tecnicasavancadas" element={<TecnicasAvancadas />} />
+            <Route path="/tecnicasavancadas" element={<TecnicasAvancadas />} />
             <Route path="/tecnicasweb" element={<TecnicasWeb />} />
             <Route path="/inteligenciacorporativa" element={<InteligenciaCorporativa />} />
+            <Route path="/matematicadiscreta" element={<MatematicaDiscreta />} />
+
 
 
 

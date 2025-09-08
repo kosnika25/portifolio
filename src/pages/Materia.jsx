@@ -1,5 +1,4 @@
 import { FaLaptopCode, FaProjectDiagram, FaCalculator, FaDatabase, FaCode, FaBrain, FaUsers, FaChartLine } from 'react-icons/fa';
-import { SiJavascript, SiReact } from 'react-icons/si';
 import { Link } from 'react-router-dom';
 import '../App.css';
 import React,{useEffect} from 'react';
