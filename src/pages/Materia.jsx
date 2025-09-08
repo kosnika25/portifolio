@@ -1,6 +1,7 @@
 import { FaLaptopCode, FaProjectDiagram, FaCalculator, FaDatabase, FaCode, FaBrain, FaUsers, FaChartLine } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import '../App.css';
+import { SiReact } from 'react-icons/si'; // ✅ Adicione esta linha
 import React,{useEffect} from 'react';
 
 const Materia = () => {
